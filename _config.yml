@@ -24,8 +24,8 @@ about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
   Marc ... 35 ans ... trail runner ... beer drinker ..... passionné d'informatique et de nouvelles technologies
 
-  Mes points forts: <mark>Linux</mark> --- <mark>Docker</mark> --- <mark>Kubernetes</mark> --- <mark>Ansible</mark>  --- <mark>CI/CD</mark> --- <mark>CI/CD</mark>
-  
+  Mes points forts: <mark>Linux</mark> --- <mark>Docker</mark> --- <mark>Kubernetes</mark> --- <mark>Ansible</mark>  --- <mark>CI/CD</mark>
+
   - Mes compétences:
       - IaC: Ansible, Terraform, K8s, Docker, Packer
       - OS: Red Hat, CentOs, Debian, Ubuntu, Arch, Windows

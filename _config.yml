@@ -22,9 +22,21 @@ linkedin_username: marccenon33
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Trailer runner, Beer drinker, Linux lover, .... la tête dans le cloud ...
+  Marc ... 35 ans ... trail runner ... beer drinker ..... passionné d'informatique et de nouvelles technologies
 
-  Mes compétences: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Mes points forts: <mark>Linux</mark> --- <mark>Docker</mark> --- <mark>Kubernetes</mark> --- <mark>Ansible</mark>  --- <mark>CI/CD</mark>
+  
+  - Mes compétences:
+      - IaC: Ansible, Terraform, K8s, Docker, Packer
+      - OS: Red Hat, CentOs, Debian, Ubuntu, Arch, Windows
+      - Scripting: Bash, Python
+      - CI/CD: Github, Gitlab, Helm, ArgoCD, Flux
+      - Monitoring: Influxdb, Prometheus, Grafana, Telegraf, Loki, Promtail, Centreon
+      - Virtualisation: Proxmox, Vmware (ESXi, Vsphere), Virtualbox, Qemu
+      - Web: Apache, Nginx, Haproxy, Traefik
+      - BDD: Mysql, Mariadb, Postgresql, Mongo, Influxdb
+      - Providers: OVH, AWS
+      - Autres: Veeam, Jira, Confluence
 
 content:
   - title: Certifications # Title for the section
@@ -50,29 +62,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Université de Bordeaux
+        caption: 2020 - 2021
+        sub_title: Licence Profesionnelle ADSILLH:
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: WSET School of London
+        caption: 2017 - 2017
+        sub_titlle: WSET Level 3
+        description: | # this will include new lines to allow paragraphs
+          Diplôme International en sommelerie et oenologie (Bac +3)
 
-  - title: A Little More About Me
+ - layout: left
+        title: Université de Bordeaux
+        caption: 2020 - 2021
+        sub_title: Licence LEA Anglais - Japonais - Parcours Marketing International
+        description: | # this will include new lines to allow paragraphs
+          Licence en Marketing International avec échange culturel au Japon
+
+  - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Quelques centres d'iintêrets:
+      - Trail running
+      - Canicross
+      - Cuisine
+      - Informatique
+      - Voyages
+      - Livres syfy
 
-      Look at this cool image  
-      ![Trees](/marc-cenon.github.io/images/landscape-trees.jpg "Trees")
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings

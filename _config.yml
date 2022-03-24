@@ -19,12 +19,12 @@ github_username:  marc-cenon
 linkedin_username: marccenon33
 
 # About Section
-about_title:   
+about_title: Présentation
 about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
   Marc ... 35 ans ... trail runner ... beer drinker ..... passionné d'informatique et de nouvelles technologies
 
-  Mes points forts: <mark>Linux</mark> --- <mark>Docker</mark> --- <mark>Kubernetes</mark> --- <mark>Ansible</mark>  --- <mark>CI/CD</mark>
+  Mes points forts: <mark>Linux</mark> --- <mark>Docker</mark> --- <mark>Kubernetes</mark> --- <mark>Ansible</mark>  --- <mark>CI/CD</mark> --- <mark>CI/CD</mark>
   
   - Mes compétences:
       - IaC: Ansible, Terraform, K8s, Docker, Packer
@@ -60,21 +60,21 @@ content:
         caption: 2018 - 2020
         description: | # this will include new lines to allow paragraphs
           Courtage Vins - Support Informatique
-          - Principales technologies utilisées: Docker - Mysql - Ubuntu - Windows
+          - Principales technologies utilisées: Docker - Mysql - Linux - Windows
 
       - layout: left
         title: Chateau Marquis de Terme
         caption: 2015 - 2018
         description: | # this will include new lines to allow paragraphs
           Assistant oenotourisme et communication digitale
-          - Principales technologies utilisées: Windows - Wordpress - Facebook
+          - Principales technologies utilisées: Windows - Linux - Nginx - Wordpress - Facebook
 
       - layout: left
         title: Equaline
         caption: 2012 - 2014
         description: | # this will include new lines to allow paragraphs
           Technicien Hotline
-          - Principales technoligies utilisées: Linux - divers CRM - Windows - outils Cisco
+          - Principales technoligies utilisées: Divers CRM - Windows - outils Cisco
 
       - layout: left
         title: Teleperformance
@@ -82,6 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Conseiller technique confirmé
           - Principales technologies utilisées: Windows, divers CRM
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -115,7 +116,7 @@ content:
       - Cuisine
       - Informatique
       - Voyages
-      - Livres syfy
+      - Livres de syfy
 
 # Footer
 footer_show_references: false

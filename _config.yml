@@ -48,16 +48,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: CGI
+        link: cgi.com/france/fr-fr
+        caption: Avril 2021 - Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Ingénieur SysAdmin / Devops
+          - Principales technologies utilisées: Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD
 
+      - layout: left
+        title: Bureau Feret
+        caption: 2018 - 2020
+        description: | # this will include new lines to allow paragraphs
+          Courtage Vins - Support Informatique
+          - Principales technologies utilisées: Docker - Mysql - Ubuntu - Windows
+
+      - layout: left
+        title: Chateau Marquis de Terme
+        caption: 2015 - 2018
+        description: | # this will include new lines to allow paragraphs
+          Assistant oenotourisme et communication digitale
+          - Principales technologies utilisées: Windows - Wordpress - Facebook
+
+      - layout: left
+        title: Equaline
+        caption: 2012 - 2014
+        description: | # this will include new lines to allow paragraphs
+          Technicien Hotline
+          - Principales technoligies utilisées: Linux - divers CRM - Windows - outils Cisco
+
+      - layout: left
+        title: Teleperformance
+        caption: 2009 - 2012
+        description: | # this will include new lines to allow paragraphs
+          Conseiller technique confirmé
+          - Principales technologies utilisées: Windows, divers CRM
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -67,12 +91,14 @@ content:
         sub_title: Licence Profesionnelle ADSILLH
         description: | # this will include new lines to allow paragraphs
           Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides
+
       - layout: left
         title: WSET School of London
         caption: 2017 - 2017
         sub_titlle: WSET Level 3
         description: | # this will include new lines to allow paragraphs
           Diplôme International en sommelerie et oenologie (Bac +3)
+
       - layout: left
         title: Université de Bordeaux
         caption: 2020 - 2021

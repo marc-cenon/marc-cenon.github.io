@@ -30,6 +30,7 @@ content:
   - title: Certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
+      ![Certs](/marc-cenon.github.io/images/certs.png "CERTS")
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

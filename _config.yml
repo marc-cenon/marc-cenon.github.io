@@ -64,17 +64,15 @@ content:
       - layout: left
         title: Université de Bordeaux
         caption: 2020 - 2021
-        sub_title: Licence Profesionnelle ADSILLH:
+        sub_title: Licence Profesionnelle ADSILLH
         description: | # this will include new lines to allow paragraphs
           Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides
-
       - layout: left
         title: WSET School of London
         caption: 2017 - 2017
         sub_titlle: WSET Level 3
         description: | # this will include new lines to allow paragraphs
           Diplôme International en sommelerie et oenologie (Bac +3)
-
       - layout: left
         title: Université de Bordeaux
         caption: 2020 - 2021

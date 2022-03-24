@@ -30,7 +30,7 @@ content:
   - title: Certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      ![Certs](https://github.com/marc-cenon/marc-cenon.github.io/blob/main/images/certs.png "CERTS")
+      ![Certs](https://marc-cenon.github.io/images/certs.png "CERTS")
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -71,7 +71,6 @@ content:
 
       Look at this cool image  
       ![Trees](/marc-cenon.github.io/images/landscape-trees.jpg "Trees")
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)

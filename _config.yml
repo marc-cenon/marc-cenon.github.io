@@ -50,7 +50,7 @@ content:
       - layout: left
         title: CGI
         link: cgi.com/france/fr-fr
-        caption: Avril 2021 - Aujourd'hui
+        caption: 2021 - Aujourd'hui
         description: | # this will include new lines to allow paragraphs
           Ingénieur SysAdmin / Devops
           - Principales technologies utilisées: Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD

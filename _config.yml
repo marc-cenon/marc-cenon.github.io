@@ -108,15 +108,16 @@ content:
           Licence en Marketing International avec échange culturel au Japon
 
   - title: Hobbies
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Quelques centres d'iintêrets:
-      - Trail running
-      - Canicross
-      - Cuisine
-      - Informatique
-      - Voyages
-      - Livres de syfy
+    layout: list
+    content: # this will include new lines to allow paragraphs
+      - layout: top-middle
+        title: |
+          - Trail running
+          - Canicross
+          - Cuisine
+          - Informatique
+          - Voyages
+          - Livres de syfy
 
 # Footer
 footer_show_references: false

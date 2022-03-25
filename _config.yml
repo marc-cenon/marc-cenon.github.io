@@ -72,7 +72,7 @@ content:
         caption: 2012 - 2014
         description: | # this will include new lines to allow paragraphs
           <font size="5"><center> Technicien Hotline </center></font>
-          <font size="4"><center> (Divers CRM - Windows - Linux) </center></font>
+          <font size="4"><center> (Divers CRM - Windows) </center></font>
 
       - layout: top-middle
         title: Teleperformance

@@ -73,15 +73,15 @@ content:
         title: Equaline
         caption: 2012 - 2014
         description: | # this will include new lines to allow paragraphs
-          Technicien Hotline
-          - Principales technoligies utilisées: Divers CRM - Windows - outils Cisco
+          <font size="4"><center> Technicien Hotline <font size="4"><center>
+          <font size="4"><center> - Principales technoligies utilisées: Divers CRM - Windows - outils Cisco <font size="4"><center>
 
       - layout: top-middle
         title: Teleperformance
         caption: 2009 - 2012
         description: | # this will include new lines to allow paragraphs
-          Conseiller technique confirmé
-          - Principales technologies utilisées: Windows, divers CRM
+          <font size="4"><center> Conseiller technique confirmé <font size="4"><center>
+          <font size="4"><center> - Principales technologies utilisées: Windows, divers CRM <font size="4"><center>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,14 +91,14 @@ content:
         caption: 2020 - 2021
         sub_title: Licence Profesionnelle ADSILLH
         description: | # this will include new lines to allow paragraphs
-          Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides
+          <font size="4"><center> Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides <font size="4"><center>
 
       - layout: top-middle
         title: WSET School of London
         caption: 2017 - 2017
         sub_titlle: WSET Level 3
         description: | # this will include new lines to allow paragraphs
-          Diplôme International en sommelerie et oenologie (Bac +3)
+          <font size="4"><center> Diplôme International en sommelerie et oenologie (Bac +3) <font size="4"><center>
 
       - layout: top-middle
         title: Université de Bordeaux

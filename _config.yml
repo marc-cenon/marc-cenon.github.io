@@ -110,12 +110,12 @@ content:
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-        <font size="20"><center> Trail running </center></font>
-          - Canicross
-          - Cuisine
-          - Informatique
-          - Voyages
-          - Livres de syfy
+        <font size="10"><center> Trail running </center></font>
+        <font size="10"><center> Canicross </center></font>
+        <font size="10"><center> Informatique </center></font>
+        <font size="10"><center> Voyages </center></font>
+        <font size="10"><center> Livres Syfy </center></font>
+        <font size="10"><center> Bricolage </center></font>
 
 # Footer
 footer_show_references: false

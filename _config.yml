@@ -47,7 +47,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: CGI
         link: cgi.com/france/fr-fr
         caption: 2021 - Aujourd'hui
@@ -55,28 +55,28 @@ content:
           Ingénieur SysAdmin / Devops
           - Principales technologies utilisées: Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD
 
-      - layout: left
+      - layout: top-middle
         title: Bureau Feret
         caption: 2018 - 2020
         description: | # this will include new lines to allow paragraphs
           Courtage Vins - Support Informatique
           - Principales technologies utilisées: Docker - Mysql - Linux - Windows
 
-      - layout: left
+      - layout: top-middle
         title: Chateau Marquis de Terme
         caption: 2015 - 2018
         description: | # this will include new lines to allow paragraphs
           Assistant oenotourisme et communication digitale
           - Principales technologies utilisées: Windows - Linux - Nginx - Wordpress - Facebook
 
-      - layout: left
+      - layout: top-middle
         title: Equaline
         caption: 2012 - 2014
         description: | # this will include new lines to allow paragraphs
           Technicien Hotline
           - Principales technoligies utilisées: Divers CRM - Windows - outils Cisco
 
-      - layout: left
+      - layout: top-middle
         title: Teleperformance
         caption: 2009 - 2012
         description: | # this will include new lines to allow paragraphs
@@ -86,21 +86,21 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Université de Bordeaux
         caption: 2020 - 2021
         sub_title: Licence Profesionnelle ADSILLH
         description: | # this will include new lines to allow paragraphs
           Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides
 
-      - layout: left
+      - layout: top-middle
         title: WSET School of London
         caption: 2017 - 2017
         sub_titlle: WSET Level 3
         description: | # this will include new lines to allow paragraphs
           Diplôme International en sommelerie et oenologie (Bac +3)
 
-      - layout: left
+      - layout: top-middle
         title: Université de Bordeaux
         caption: 2020 - 2021
         sub_title: Licence LEA Anglais - Japonais - Parcours Marketing International

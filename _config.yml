@@ -105,17 +105,17 @@ content:
         caption: 2020 - 2021
         sub_title: Licence LEA Anglais - Japonais - Parcours Marketing International
         description: | # this will include new lines to allow paragraphs
-          Licence en Marketing International avec échange culturel au Japon
+          <font size="4"><center> Licence en Marketing International avec échange culturel au Japon </center></font>
 
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-        <font size="2"><center> Trail running </center></font>
-        <font size="4"><center> Canicross </center></font>
-        <font size="6"><center> Informatique </center></font>
-        <font size="10"><center> Voyages </center></font>
-        <font size="10"><center> Livres Syfy </center></font>
-        <font size="10"><center> Bricolage </center></font>
+        <font size="5"><center> Trail running </center></font>
+        <font size="5"><center> Canicross </center></font>
+        <font size="5"><center> Informatique </center></font>
+        <font size="5"><center> Voyages </center></font>
+        <font size="5"><center> Livres Syfy </center></font>
+        <font size="5"><center> Bricolage </center></font>
 
 # Footer
 footer_show_references: false

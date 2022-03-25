@@ -105,7 +105,7 @@ content:
         caption: 2020 - 2021
         sub_title: Licence LEA Anglais - Japonais - Parcours Marketing International
         description: | # this will include new lines to allow paragraphs
-        <center>Licence en Marketing International avec échange culturel au Japon</center>
+          Licence en Marketing International avec échange culturel au Japon
 
   - title: Hobbies
     layout: text

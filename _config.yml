@@ -110,7 +110,7 @@ content:
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-         <center> Trail running </center>
+        <font size="20"><center> Trail running </center></font>
           - Canicross
           - Cuisine
           - Informatique

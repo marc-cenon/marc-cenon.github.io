@@ -57,28 +57,28 @@ content:
         title: Bureau Feret
         caption: 2018 - 2020
         description: | # this will include new lines to allow paragraphs
-          <font size="5"><center><bold> Courtage Vins - Support Informatique </bold></center></font>
-          <font size="4"> (Docker - Mysql - Linux - Windows) </center></font>
+          <font size="5"><center> Courtage Vins - Support Informatique </center></font>
+          <font size="4"><center> (Docker - Mysql - Linux - Windows) </center></font>
 
       - layout: top-middle
         title: Chateau Marquis de Terme
         caption: 2015 - 2018
         description: | # this will include new lines to allow paragraphs
-          <font size="5"><center><bold> Assistant oenotourisme et communication digitale </bold></center></font>
+          <font size="5"><center> Assistant oenotourisme et communication digitale </center></font>
           <font size="4"><center> (Windows - Linux - Nginx - Wordpress) </center></font>
 
       - layout: top-middle
         title: Equaline
         caption: 2012 - 2014
         description: | # this will include new lines to allow paragraphs
-          <font size="5"><center><bold> Technicien Hotline </bold></center></font>
+          <font size="5"><center> Technicien Hotline </center></font>
           <font size="4"><center> (Divers CRM - Windows - Linux) </center></font>
 
       - layout: top-middle
         title: Teleperformance
         caption: 2009 - 2012
         description: | # this will include new lines to allow paragraphs
-          <font size="5"><center><bold> Conseiller technique confirmé </bold></center></font>
+          <font size="5"><center> Conseiller technique confirmé </center></font>
           <font size="4"><center> (Windows, divers CRM) </center></font>
 
   - title: Education # Title for the section

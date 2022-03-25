@@ -50,7 +50,7 @@ content:
         link: cgi.com/france/fr-fr
         caption: 2021 - Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          <font size="4"><center> **Ingénieur SysAdmin / Devops** </center></font>
+          <font size="4"><center> __Ingénieur SysAdmin / Devops__ </center></font>
           <font size="4"><center>Principales technologies utilisées: Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD </center></font>
 
       - layout: top-middle

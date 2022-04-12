@@ -42,7 +42,7 @@ content:
     content: |
       ![Certs](./images/certs.png "CERTS")
 
-  - title: Experience # Title for the section
+  - title: Expérience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle

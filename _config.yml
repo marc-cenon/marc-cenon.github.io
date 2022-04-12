@@ -86,21 +86,21 @@ content:
     content:
       - layout: top-middle
         title: Université de Bordeaux
-        caption: 2020 - 2021
+        caption: 2020
         sub_title: Licence Profesionnelle ADSILLH
         description: | # this will include new lines to allow paragraphs
           <font size="4"><center> Adminitration / Développement de Systèmes Informatiques à base de Logiciels Libres et Hybrides </center></font>
 
       - layout: top-middle
         title: WSET School of London
-        caption: 2017 - 2017
+        caption: 2017
         sub_titlle: WSET Level 3
         description: | # this will include new lines to allow paragraphs
           <font size="4"><center> Diplôme International en sommelerie et oenologie (Bac +3) </center></font>
 
       - layout: top-middle
         title: Université de Bordeaux
-        caption: 2020 - 2021
+        caption: 2013
         sub_title: Licence LEA Anglais - Japonais - Parcours Marketing International
         description: | # this will include new lines to allow paragraphs
           <font size="4"><center> Licence en Marketing International avec échange culturel au Japon </center></font>

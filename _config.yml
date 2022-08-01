@@ -46,10 +46,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
      - layout: top-middle
-        title: CSHIELD - BALEEN
-        link: https://baleen.cloud
-        caption: 2022 - Aujourd'hui
-        description: | # this will include new lines to allow paragraphs
+       title: CSHIELD - BALEEN
+       link: https://baleen.cloud
+       caption: 2022 - Aujourd'hui
+       description: | # this will include new lines to allow paragraphs
           <font size="5"><center> Ingénieur Devops </center></font>
           <font size="4"><center> (Linux - Ansible - Docker - Kubernetes - CI/CD - Terraform - Rust - Python) </center></font>
           

@@ -27,13 +27,13 @@ about_content: | # this will include new lines to allow paragraphs
   - Mon champs d'action:
       - <mark>IaC</mark>: Ansible, Terraform, K8s, Docker, Packer
       - <mark>OS</mark>: Red Hat, CentOs, Debian, Ubuntu, Arch, Windows
-      - <mark>Scripting</mark>: Bash, Python
+      - <mark>Scripting</mark>: Bash, Python, Rust, Golang, Lua
       - <mark>CI/CD</mark>: Github, Gitlab, Helm, ArgoCD, Flux
       - <mark>Monitoring</mark>: Influxdb, Prometheus, Grafana, Telegraf, Loki, Promtail, Centreon
       - <mark>Virtualisation</mark>: Proxmox, Vmware (ESXi, Vsphere), Virtualbox, Qemu
-      - <mark>Web</mark>: Apache, Nginx, Haproxy, Traefik
+      - <mark>Web</mark>: Apache, Nginx, Haproxy, Traefik, Open
       - <mark>BDD</mark>: Mysql, Mariadb, Postgresql, Mongo, Influxdb
-      - <mark>Providers</mark>: OVH, AWS
+      - <mark>Providers</mark>: OVH, AWS, Azure
       - <mark>Autres</mark>: Veeam, Jira, Confluence
 
 content:
@@ -45,6 +45,14 @@ content:
   - title: Expérience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: top-middle
+        title: CSHIELD - BALEEN
+        link: https://baleen.cloud
+        caption: 2022 - Aujourd'hui
+        description: | # this will include new lines to allow paragraphs
+          <font size="5"><center> Ingénieur Devops </center></font>
+          <font size="4"><center> (Linux - Ansible - Docker - Kubernetes - CI/CD - Terraform - Rust - Python) </center></font>
+          
       - layout: top-middle
         title: CGI
         link: cgi.com/france/fr-fr

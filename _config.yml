@@ -45,49 +45,49 @@ content:
   - title: Expérience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: top-middle
-       title: CSHIELD - BALEEN
-       link: https://baleen.cloud
-       caption: 2022 - Aujourd'hui
-       description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Ingénieur Devops </center></font>
-          <font size="4"><center> (Linux - Ansible - Docker - Kubernetes - CI/CD - Terraform - Rust - Python) </center></font>
-          
       - layout: top-middle
-        title: CGI
-        link: cgi.com/france/fr-fr
-        caption: 2021 - Aujourd'hui
+        title: CSHIELD - BALEEN
+        link: https://baleen.cloud
+        caption: 2022 - Aujourd'hui
         description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Ingénieur SysAdmin / Devops </center></font>
-          <font size="4"><center> (Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD) </center></font>
+           <font size="5"><center> Ingénieur Devops </center></font>
+           <font size="4"><center> (Linux - Ansible - Docker - Kubernetes - CI/CD - Terraform - Rust - Python) </center></font>
+           
+       - layout: top-middle
+         title: CGI
+         link: cgi.com/france/fr-fr
+         caption: 2021 - Aujourd'hui
+         description: | # this will include new lines to allow paragraphs
+           <font size="5"><center> Ingénieur SysAdmin / Devops </center></font>
+           <font size="4"><center> (Linux - VMWARE - Ansible - Docker - Kubernetes - CI/CD) </center></font>
 
-      - layout: top-middle
-        title: Bureau Feret
-        caption: 2018 - 2020
-        description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Courtage Vins - Support Informatique </center></font>
-          <font size="4"><center> (Docker - Mysql - Linux - Windows) </center></font>
+       - layout: top-middle
+         title: Bureau Feret
+         caption: 2018 - 2020
+         description: | # this will include new lines to allow paragraphs
+           <font size="5"><center> Courtage Vins - Support Informatique </center></font>
+           <font size="4"><center> (Docker - Mysql - Linux - Windows) </center></font>
 
-      - layout: top-middle
-        title: Chateau Marquis de Terme
-        caption: 2015 - 2018
-        description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Assistant oenotourisme et communication digitale </center></font>
-          <font size="4"><center> (Windows - Linux - Nginx - Wordpress) </center></font>
+       - layout: top-middle
+         title: Chateau Marquis de Terme
+         caption: 2015 - 2018
+         description: | # this will include new lines to allow paragraphs
+           <font size="5"><center> Assistant oenotourisme et communication digitale </center></font>
+           <font size="4"><center> (Windows - Linux - Nginx - Wordpress) </center></font>
 
-      - layout: top-middle
-        title: Equaline
-        caption: 2012 - 2014
-        description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Technicien Hotline </center></font>
-          <font size="4"><center> (Divers CRM - Windows) </center></font>
+       - layout: top-middle
+         title: Equaline
+         caption: 2012 - 2014
+         description: | # this will include new lines to allow paragraphs
+           <font size="5"><center> Technicien Hotline </center></font>
+           <font size="4"><center> (Divers CRM - Windows) </center></font>
 
-      - layout: top-middle
-        title: Teleperformance
-        caption: 2009 - 2012
-        description: | # this will include new lines to allow paragraphs
-          <font size="5"><center> Conseiller technique confirmé </center></font>
-          <font size="4"><center> (Windows, divers CRM) </center></font>
+       - layout: top-middle
+         title: Teleperformance
+         caption: 2009 - 2012
+         description: | # this will include new lines to allow paragraphs
+           <font size="5"><center> Conseiller technique confirmé </center></font>
+           <font size="4"><center> (Windows, divers CRM) </center></font>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

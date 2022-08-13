@@ -25,8 +25,8 @@ about_content: | # this will include new lines to allow paragraphs
   Marc ... 35 ans ... trail runner ... beer drinker ..... passionné d'informatique et de nouvelles technologies
 
   - Mon champs d'action:
-      - <mark>IaC</mark>: Ansible, Terraform, K8s, Helm, Docker, Packer
-      - <mark>OS</mark>: Red Hat, CentOs, Debian, Ubuntu, Arch, Windows
+      - <mark>IaC</mark>: Ansible, Terraform, Kubernetes, Openstack, Helm, Docker, Packer, Vagrant
+      - <mark>OS</mark>: Red Hat, CentOs, Debian, Ubuntu, Arch, AlmaLinux, Windows
       - <mark>Scripting</mark>: Bash, Python, Lua, Rust, Golang
       - <mark>CI/CD</mark>: Github, Gitlab, ArgoCD, Flux
       - <mark>Monitoring</mark>: Influxdb, Prometheus, Grafana, Telegraf, Loki, Promtail, Centreon, Kibana

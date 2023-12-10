@@ -24,7 +24,7 @@ about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
   Marc ... 36 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
 
-  <mark>IaC</mark>  Ansible, Terraform, Packer, Vagrant, Cloud-Init 
+  <mark>IaC</mark>  Ansible, Terraform, Packer, Vagrant, Cloud-Init  
   <mark>Containerization platforms</mark>  Kubernetes, Docker, LXC, Containerd  
   <mark>Kubernetes</mark>  Helm, Kustomize, Vault, Kyverno, Trivy, Istio, ArgoCD, Flux  
   <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  

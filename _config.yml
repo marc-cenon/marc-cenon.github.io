@@ -1,0 +1,163 @@
+# Site
+repository: marc-cenon/marc-cenon.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: MARC CENON
+title: DevOps Cloud - Site Reliability Engineer
+email: marc.cenon33@gmail.com
+website: https://marc-cenon.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  marc-cenon
+linkedin_username: marccenon33
+
+# About Section
+about_title: About Me
+about_profile_image: images/myAvatar.png
+about_content: |
+  Marc ... 37 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
+  
+  \
+  \
+  \
+  <mark> Cloud Providers </mark>
+    - AWS - AZURE - GCP - Scaleway - OVH
+
+  \
+  <mark> IaC - Automation </mark>
+    - Ansible - Terraform - Pulumi - Packer 
+    - Vagrant - Cloud-Init - Gitlab CI - Github Actions
+  
+  \
+  <mark> Kubernetes ecosystem </mark>
+    - Helm - Kustomize - Vault - Trivy - Istio - Calico - Cilium
+    - Traefik - Nginx Ingress Controller - ArgoCD - Flux
+  
+  \
+  <mark> Observability - Monitoring - Alerting </mark>
+    - Opentelemetry - Grafana - Kibana - Alertmanager - Fluentbit - Elasticsearch - Loki
+    - APM - jaeger - Tempo - Node Exporter, cAdvisor, Promtail - Hyperping
+  
+  \
+  <mark> Scripting </mark>
+    - Bash - Python - Lua - Node.js
+  
+  \
+  <mark> Databases </mark>
+    - MySQL - MariaDB - PostgreSQL - MongoDB
+  
+  \
+  <mark> Linux </mark>
+    - Debian - Ubuntu - Arch - Fedora - RedHat - Wazuh 
+    - RabbitMQ - Redis - Proxmox - Apache - Nginx
+
+content:
+  - title: Certifications 
+    layout: text
+    content: |
+      ![Certs](./images/certs.png "CERTS")
+
+  - title: Experiences
+    layout: list
+    content:
+      - layout: top-middle
+        title: DevOps - SRE
+        description: |
+          <font size="4"><center> L'Addition (FDJ - La Française des jeux) </center></font>
+          <font size="4"><center> 09/2023 - Today </center></font>
+
+      - layout: top-middle
+        title: DevOps - SRE
+        description: |
+          <font size="4"><center> Claranet </center></font>
+          <font size="4"><center> 09/2022 - 09/2023 </center></font>
+
+      - layout: top-middle
+        title: DevOps - SRE
+        description: |
+           <font size="4"><center> Cshield - Baleen (Cdiscount) </center></font>
+           <font size="4"><center> 07/2022 - 09/2022 </center></font>
+
+      - layout: top-middle
+        title: DevOps
+        description: |
+          <font size="4"><center> CGI </center></font>
+          <font size="4"><center> 09/2020 - 07/2022 </center></font>
+
+      - layout: top-middle
+        title: Wine brooker - IT Technician / Helpdesk
+        description: |
+          <font size="4"><center> Bureau Feret </center></font>
+          <font size="4"><center> 2018 - 2020 </center></font>
+
+      - layout: top-middle
+        title: Brand Ambassador - Digital communication
+        description: |
+          <font size="4"><center> Chateau Marquis de Terme </center></font>
+          <font size="4"><center> 2015 - 2018 </center></font>
+
+      - layout: top-middle
+        title: IT Technician / Helpdesk
+        description: |
+          <font size="4"><center> Equaline </center></font>
+          <font size="4"><center> 2012 - 2014 </center></font>
+
+      - layout: top-middle
+        title: Customer Support Consultant
+        description: |
+          <font size="4"><center> Teleperformance </center></font>
+          <font size="4"><center> 2009 - 2012 </center></font>
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title: IT Bachelor (Licence Profesionnelle ADSILLH)
+        description: |
+          <font size="4"><center> University of Bordeaux </center></font>
+          <font size="4"><center> System Administration and Plateform engineering </center></font>
+          <font size="4"><center> 2020 </center></font>
+
+      - layout: top-middle
+        title: WSET Level 3
+        description: |
+          <font size="4"><center> WSET School of London </center></font>
+          <font size="4"><center> Sommelier Diploma (Bac +3) </center></font>
+          <font size="4"><center> 2017 </center></font>
+
+      - layout: top-middle
+        title: Applied Foreign Languages English / Japanese Bachelor (Licence LEA)
+        description: |
+          <font size="4"><center> Bordeaux University </center></font>
+          <font size="4"><center> Cultural exchange with Tokyo University </center></font>
+          <font size="4"><center> 2013 </center></font>
+
+  - title: Hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        <font size="4"><center> Trail running </center></font>
+        <font size="4"><center> Canicross </center></font>
+        <font size="4"><center> Travels </center></font>
+        <font size="4"><center> Cooking </center></font>
+        <font size="4"><center> DIY </center></font>
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

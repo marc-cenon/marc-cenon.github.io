@@ -24,17 +24,17 @@ about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
   Marc ... 36 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
 
-  <mark>IaC</mark>  Ansible, Terraform, Packer, Vagrant, Cloud-Init  
-  <mark>Containerization platforms</mark>  Kubernetes, Docker, LXC, Containerd  
-  <mark>Kubernetes</mark>  Helm, Kustomize, Vault, Kyverno, Trivy, Istio, ArgoCD, Flux  
-  <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  
-  <mark>Scripting</mark>  Bash, Python, Lua  
-  <mark>CI/CD</mark>  Github Actions, Gitlab CI, Azure Devops  
-  <mark>Observability</mark>  Datadog, Prometheus, Grafana, Loki, Promtail, Fluentbit, Elastic, Kibana, Jaeger  
-  <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu  
-  <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik  
-  <mark>BDD</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  
-  <mark>Providers</mark>  AWS, Azure, OVH, Scaleway  
+  <mark>IaC</mark>  Ansible, Terraform, Packer, Vagrant, Cloud-Init
+  <mark>Containerization platforms</mark>  Kubernetes, Docker, LXC
+  <mark>Kubernetes</mark>  Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux
+  <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch
+  <mark>Scripting</mark>  Bash, Python, Node.js, Lua
+  <mark>CI/CD</mark>  Github Actions, Gitlab CI, Azure Devops
+  <mark>Observability</mark>  Opentelemetry, Elasticsearch, APM, Kibana, Prometheus, Grafana, Loki, Promtail, Fluentbit, Jaeger
+  <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu
+  <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik
+  <mark>BDD</mark>  MySQL, MariaDB, PostgreSQL, MongoDB
+  <mark>Providers</mark>  AWS, Azure, OVH, Scaleway
 
 content:
   - title: Certifications # Title for the section
@@ -56,7 +56,7 @@ content:
         description: |
            <font size="4"><center> Cshield - Baleen (Cdiscount) </center></font>
            <font size="4"><center> 07/2022 - 09/2022 </center></font>
-           
+
       - layout: top-middle
         title: SysAdmin / DevOps
         description: |
@@ -82,7 +82,7 @@ content:
           <font size="4"><center> 2012 - 2014 </center></font>
 
       - layout: top-middle
-        title: Customer Support Consultant 
+        title: Customer Support Consultant
         description: |
           <font size="4"><center> Teleperformance </center></font>
           <font size="4"><center> 2009 - 2012 </center></font>
@@ -92,13 +92,13 @@ content:
     content:
       - layout: top-middle
         title: IT Bachelor (Licence Profesionnelle ADSILLH)
-        description: | 
+        description: |
           <font size="4"><center> University of Bordeaux </center></font>
           <font size="4"><center> System Administration and Plateform engineering </center></font>
           <font size="4"><center> 2020 </center></font>
 
       - layout: top-middle
-        title: WSET Level 3 
+        title: WSET Level 3
         description: |
           <font size="4"><center> WSET School of London </center></font>
           <font size="4"><center> Sommelier Diploma (Bac +3) </center></font>

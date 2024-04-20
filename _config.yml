@@ -29,12 +29,12 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Kubernetes</mark> Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux  
   <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  
   <mark>Scripting</mark>  Bash, Python, Node.js, Lua  
-  <mark>CI/CD</mark>  Github Actions, Gitlab CI
+  <mark>CI/CD</mark>  Github Actions, Gitlab CI  
   <mark>Observability</mark>  Opentelemetry, Elasticsearch, APM, Kibana, Prometheus, Grafana, Loki, Promtail, Fluentbit, Jaeger  
   <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu  
   <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik  
   <mark>BDD</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  
-  <mark>Providers</mark>  AWS, Azure, GCP, Scaleway, OVH
+  <mark>Providers</mark>  AWS, Azure, GCP, Scaleway, OVH  
 
 content:
   - title: Certifications # Title for the section

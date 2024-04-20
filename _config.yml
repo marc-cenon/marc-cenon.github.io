@@ -22,19 +22,19 @@ linkedin_username: marccenon33
 about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
-  Marc ... 36 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
+  Marc ... 37 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
 
-  <mark>IaC</mark>  Ansible, Terraform, Packer, Vagrant, Cloud-Init  
-  <mark>Containerization platforms</mark>  Kubernetes, Docker, LXC  
-  <mark>Kubernetes</mark>  Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux  
+  <mark>IaC</mark> Ansible, Terraform, Packer, Vagrant, Cloud-Init  
+  <mark>Containerization platforms</mark> Kubernetes, Docker, LXC  
+  <mark>Kubernetes</mark> Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux  
   <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  
   <mark>Scripting</mark>  Bash, Python, Node.js, Lua  
-  <mark>CI/CD</mark>  Github Actions, Gitlab CI, Azure Devops  
+  <mark>CI/CD</mark>  Github Actions, Gitlab CI
   <mark>Observability</mark>  Opentelemetry, Elasticsearch, APM, Kibana, Prometheus, Grafana, Loki, Promtail, Fluentbit, Jaeger  
   <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu  
   <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik  
   <mark>BDD</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  
-  <mark>Providers</mark>  AWS, Azure, OVH, Scaleway  
+  <mark>Providers</mark>  AWS, Azure, GCP, Scaleway, OVH
 
 content:
   - title: Certifications # Title for the section
@@ -46,10 +46,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: DevOps Cloud - SRE
+        title: DevOps - SRE
+        description: |
+          <font size="4"><center> L'Addition (FDJ - La Française des jeux) </center></font>
+          <font size="4"><center> 09/2023 - Today </center></font>
+
+      - layout: top-middle
+        title: DevOps - SRE
         description: |
           <font size="4"><center> Claranet </center></font>
-          <font size="4"><center> 09/2022 - 10/2023 </center></font>
+          <font size="4"><center> 09/2022 - 09/2023 </center></font>
 
       - layout: top-middle
         title: DevOps - SRE
@@ -58,10 +64,10 @@ content:
            <font size="4"><center> 07/2022 - 09/2022 </center></font>
 
       - layout: top-middle
-        title: SysAdmin / DevOps
+        title: DevOps
         description: |
           <font size="4"><center> CGI </center></font>
-          <font size="4"><center> 01/2021 - 07/2022 </center></font>
+          <font size="4"><center> 09/2020 - 07/2022 </center></font>
 
       - layout: top-middle
         title: Wine brooker - IT Technician / Helpdesk
@@ -117,7 +123,7 @@ content:
         <font size="4"><center> Trail running </center></font>
         <font size="4"><center> Canicross </center></font>
         <font size="4"><center> Travels </center></font>
-        <font size="4"><center> Cooking</center></font>
+        <font size="4"><center> Cooking </center></font>
         <font size="4"><center> DIY </center></font>
 # Footer
 footer_show_references: false

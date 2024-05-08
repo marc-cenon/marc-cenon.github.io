@@ -24,17 +24,21 @@ about_profile_image: images/myAvatar.png
 about_content: | # this will include new lines to allow paragraphs
   Marc ... 37 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
 
-  <mark>IaC</mark> Ansible, Terraform, Packer, Vagrant, Cloud-Init  
+  <mark>Providers</mark>  AWS, Azure, GCP, Scaleway, OVH  
+  <mark>IaC</mark> Ansible, Terraform, Pulumi, Packer, Vagrant, Cloud-Init  
   <mark>Containerization platforms</mark> Kubernetes, Docker, LXC  
   <mark>Kubernetes</mark> Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux  
-  <mark>OS</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  
   <mark>Scripting</mark>  Bash, Python, Node.js, Lua  
   <mark>CI/CD</mark>  Github Actions, Gitlab CI  
-  <mark>Observability</mark>  Opentelemetry, Elasticsearch, APM, Kibana, Prometheus, Grafana, Loki, Promtail, Fluentbit, Jaeger  
+  <mark>Monitoring and Alerting</mark> Grafana, Kibana, Alertmanager, Hyperping
+  <mark>Logs Management</mark> Fluentbit, Elasticsearch, Loki
+  <mark>Tracing solutions</mark> APM, Jaeger, Tempo
+  <mark>Telemetry collection</mark>  Opentelemetry, Fluentbit, Node Exporter, cAdvisor, Promtail
   <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu  
   <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik  
-  <mark>BDD</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  
-  <mark>Providers</mark>  AWS, Azure, GCP, Scaleway, OVH  
+  <mark>Databases</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  
+  <mark>Os</mark>  Red Hat, Fedora, CentOs, Debian, Ubuntu, Arch  
+  <mark>Miscs</mark>  Wazuh, RabbitMQ, Redis
 
 content:
   - title: Certifications # Title for the section

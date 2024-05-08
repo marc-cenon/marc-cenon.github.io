@@ -28,22 +28,22 @@ about_content: |
   \
   \
   <mark> Cloud Providers </mark>
-    - AWS - AZURE - GCP - Scaleway - OVH
+    - AWS - Microsoft Azure - Google Cloud - Scaleway - OVHcloud
 
   \
   <mark> IaC - Automation </mark>
-    - Ansible - Terraform - Pulumi - Packer 
-    - Vagrant - Cloud-Init - Gitlab CI - Github Actions
+    - Ansible - Terraform - Pulumi - Packer - Vagrant
+    - Gitlab CI - Github Actions - n8n - Cloud-Init
   
   \
   <mark> Kubernetes ecosystem </mark>
     - Helm - Kustomize - Vault - Trivy - Istio - Calico - Cilium
-    - Traefik - Nginx Ingress Controller - ArgoCD - Flux
+    - Traefik - Nginx Ingress Controller - Rook-Ceph - ArgoCD - Flux
   
   \
   <mark> Observability - Monitoring - Alerting </mark>
     - Opentelemetry - Grafana - Kibana - Alertmanager - Fluentbit - Elasticsearch - Loki
-    - APM - jaeger - Tempo - Node Exporter, cAdvisor, Promtail - Hyperping
+    - Prometheus - Thanos - APM - jaeger - Tempo - Promtail - Hyperping
   
   \
   <mark> Scripting </mark>
@@ -55,8 +55,8 @@ about_content: |
   
   \
   <mark> Linux </mark>
-    - Debian - Ubuntu - Arch - Fedora - RedHat - Wazuh 
-    - RabbitMQ - Redis - Proxmox - Apache - Nginx
+    - Debian - Ubuntu - Arch - Fedora - RedHat
+    - Wazuh - RabbitMQ - Redis - Proxmox - Apache - Nginx
 
 content:
   - title: Certifications 

@@ -30,10 +30,10 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Kubernetes</mark> Helm, Kustomize, Vault, Trivy, Istio, ArgoCD, Flux  
   <mark>Scripting</mark>  Bash, Python, Node.js, Lua  
   <mark>CI/CD</mark>  Github Actions, Gitlab CI  
-  <mark>Monitoring and Alerting</mark> Grafana, Kibana, Alertmanager, Hyperping
-  <mark>Logs Management</mark> Fluentbit, Elasticsearch, Loki
-  <mark>Tracing solutions</mark> APM, Jaeger, Tempo
-  <mark>Telemetry collection</mark>  Opentelemetry, Fluentbit, Node Exporter, cAdvisor, Promtail
+  <mark>Monitoring and Alerting</mark> Grafana, Kibana, Alertmanager, Hyperping  
+  <mark>Logs Management</mark> Fluentbit, Elasticsearch, Loki  
+  <mark>Tracing solutions</mark> APM, Jaeger, Tempo  
+  <mark>Telemetry collection</mark>  Opentelemetry, Fluentbit, Node Exporter, cAdvisor, Promtail  
   <mark>Virtualization</mark>  Proxmox, Vmware ESXi, Virtualbox, Qemu  
   <mark>Web</mark>  Apache, Nginx, HAProxy, Traefik  
   <mark>Databases</mark>  MySQL, MariaDB, PostgreSQL, MongoDB  

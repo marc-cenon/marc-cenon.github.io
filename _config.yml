@@ -22,7 +22,7 @@ linkedin_username: marccenon33
 about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: |
-  Marc ... 37 years old... trail runner ... beer drinker ..... Start Trek fan and overall IT Geek
+  Marc ... 38 years old... trail runner ... beer drinker ..... Start Trek fan and IT Geek
   
   \
   <mark> Cloud Providers </mark>
@@ -53,7 +53,7 @@ about_content: |
   
   \
   <mark> Linux </mark>
-    - Debian - Ubuntu - Arch - Fedora - RedHat
+    - Debian - Ubuntu - Arch - Fedora - RedHat - VMWare
     - Wazuh - RabbitMQ - Redis - Proxmox - Apache - Nginx
 
 content:

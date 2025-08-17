@@ -41,17 +41,17 @@ about_content: |
   <mark> Kubernetes - Docker </mark>
     - Helm - Kustomize  - Istio - Calico - Cilium
     - Traefik - Nginx Ingress Controller
-    - Rook-Ceph- Dockerfile - Docker compose
+    - Rook-Ceph - Dockerfile - Docker compose
   
   \
   <mark> Observability </mark>
-    -  Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos
-    -  Fluentbit - APM - Jaeger - Tempo - Promtail - Hyperping
+    - Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos
+    - Fluentbit - APM - Jaeger - Tempo - Promtail - Hyperping
     - Alertmanager - Datadog
     
   \
   <mark> Scripting </mark>
-    -  Bash - Python - Lua
+    - Bash - Python - Lua
   
   \
   <mark> Databases </mark>
@@ -59,7 +59,7 @@ about_content: |
       
   \
   <mark>  Linux OS </mark>
-    -  Debian - Ubuntu - Arch - Fedora - RedHat - Proxmox
+    - Debian - Ubuntu - Arch - Fedora - RedHat - Proxmox
       
   \
   <mark> Security </mark>
@@ -71,7 +71,7 @@ about_content: |
       
   \
     <mark> Others </mark>
-    -  Git - RabbitMQ - Redis - Ollama - IA coding assistants
+    - Git - RabbitMQ - Redis - Ollama - IA coding assistants
       
   \
 content:

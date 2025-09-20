@@ -23,7 +23,7 @@ about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: |
   Marc ... 38 years old... trail runner ... beer drinker ..... Start Trek fan and IT Geek
-  
+
   \
   <mark> Cloud Providers </mark>
     - AWS -  AZURE - GCP - Scaleway - OVHcloud
@@ -32,50 +32,50 @@ about_content: |
   <mark> IaC - Automation </mark>
     - Ansible - Terraform - Pulumi - n8n - Cloud-Init
     - Packer - Vagrant - SaltStack
-  
+
   \
   <mark> CI/CD </mark>
     - Gitlab CI - Github Action - ArgoCD - Flux
-  
+
   \
   <mark> Kubernetes - Docker </mark>
     - Helm - Kustomize  - Istio - Calico - Cilium
     - Traefik - Nginx Ingress Controller
     - Rook-Ceph - Dockerfile - Docker compose
-  
+
   \
   <mark> Observability </mark>
     - Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos
     - Fluentbit - APM - Jaeger - Tempo - Promtail - Hyperping
     - Alertmanager - Datadog
-    
+
   \
   <mark> Scripting </mark>
-    - Bash - Python - Lua
-  
+    - Bash - Python - Lua - Ruby
+
   \
   <mark> Databases </mark>
     - MySQL - MariaDB - PostgreSQL - MongoDB
-      
+
   \
   <mark>  Linux OS </mark>
     - Debian - Ubuntu - Arch - Fedora - RedHat - Proxmox
-      
+
   \
   <mark> Security </mark>
     - Wazuh - Vault - Trivy - Sops
-      
+
   \
     <mark> Web </mark>
     - Apache - Nginx - HAProxy
-      
+
   \
     <mark> Others </mark>
     - Git - RabbitMQ - Redis - Ollama - IA coding assistants
-      
+
   \
 content:
-  - title: Certifications 
+  - title: Certifications
     layout: text
     content: |
       ![Certs](./images/certs.png "CERTS")

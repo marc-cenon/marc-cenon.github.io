@@ -42,6 +42,7 @@ about_content: |
     - Helm - Kustomize  - Istio - Calico - Cilium
     - Traefik - Nginx Ingress Controller
     - Rook-Ceph - Dockerfile - Docker compose
+    - KEDA - Karpenter
 
   \
   <mark> Observability </mark>

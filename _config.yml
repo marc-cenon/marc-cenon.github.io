@@ -22,7 +22,8 @@ linkedin_username: marccenon33
 about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: |
-  Marc ... 38 years old... trail runner ... beer drinker ..... Start Trek fan and IT Geek
+  SRE / Cloud Architect with 6+ years designing and operating infrastructure at scale.
+  Specialized in Kubernetes, observability, and cost optimization across AWS / OVH / Scaleway.
 
   \
   <mark> Cloud Providers </mark>
@@ -30,25 +31,41 @@ about_content: |
 
   \
   <mark> IaC - Automation </mark>
-    - Ansible - Terraform - Pulumi - n8n - Cloud-Init
-    - Packer - Vagrant - SaltStack
+    - Ansible - Terraform - Pulumi - n8n
+    - Packer - Vagrant - SaltStack - Cloud-Init
 
   \
   <mark> CI/CD </mark>
     - Gitlab CI - Github Action - ArgoCD - Flux
 
   \
+  <mark> AI / MLOps </mark>
+    - Ollama - LLM infrastructure hosting (GPU nodes, model serving)
+    - AI coding assistants integration in CI/CD pipelines
+
+  \
   <mark> Kubernetes - Docker </mark>
     - Helm - Kustomize  - Istio - Calico - Cilium
-    - Traefik - Nginx Ingress Controller
+    - Traefik - Nginx Ingress Controller - Gateway API
     - Rook-Ceph - Dockerfile - Docker compose
-    - KEDA - Karpenter
+    - KEDA - Karpenter - Velero
 
   \
   <mark> Observability </mark>
-    - Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos
+    - Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos - Loki
     - Fluentbit - APM - Jaeger - Tempo - Promtail - Hyperping
     - Alertmanager - Datadog
+
+  \
+  <mark> FinOps </mark>
+    - OpenCost - Kubecost
+
+  \
+  <mark> SRE Practices </mark>
+    - SLO / SLI / Error Budget definition and ownership
+    - Incident management - PagerDuty - Opsgenie
+    - On-call rotation management
+    - Post-mortem culture / Blameless RCA
 
   \
   <mark> Scripting </mark>
@@ -56,7 +73,7 @@ about_content: |
 
   \
   <mark> Databases </mark>
-    - MySQL - MariaDB - PostgreSQL - MongoDB
+    - MySQL - MariaDB - PostgreSQL - ProxySQL
 
   \
   <mark>  Linux OS </mark>
@@ -65,6 +82,7 @@ about_content: |
   \
   <mark> Security </mark>
     - Wazuh - Vault - Trivy - Sops
+    - External Secrets Operator
 
   \
     <mark> Web </mark>
@@ -72,7 +90,7 @@ about_content: |
 
   \
     <mark> Others </mark>
-    - Git - RabbitMQ - Redis - Ollama - IA coding assistants
+    - Git - RabbitMQ - Redis
 
   \
 content:
@@ -87,8 +105,14 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-          <font size="4"><center> L'Addition (FDJ - La Française des jeux) </center></font>
+          <font size="4"><center> FDJ United - La Française des jeux </center></font>
           <font size="4"><center> 09/2023 - Today </center></font>
+
+          - Designed and operated multi-region and multi-provider infrastructure for payment-critical POS systems serving over tens of thousands of restaurants across France
+          - Led Kubernetes platform engineering operations
+          - Implemented GitOps with ArgoCD across 50+ microservices
+          - Defined and owned SLOs / SLIs and error budgets for all critical payment services
+          - Reduced infrastructure costs by adopting FinOps best practices
 
       - layout: top-middle
         title: DevOps - SRE
@@ -96,11 +120,20 @@ content:
           <font size="4"><center> Claranet </center></font>
           <font size="4"><center> 09/2022 - 09/2023 </center></font>
 
+          - Managed multi-client cloud infrastructure across AWS and GCP
+          - Designed and deployed Terraform modules and Ansible playbooks
+          - Implemented centralized observability stack (Prometheus, Grafana, Alertmanager)
+          - Contributed to on-call rotation and led post-mortem processes
+
       - layout: top-middle
         title: DevOps - SRE
         description: |
            <font size="4"><center> Cshield - Baleen (Cdiscount) </center></font>
            <font size="4"><center> 07/2022 - 09/2022 </center></font>
+
+           - Automated infrastructure provisioning with Terraform and Ansible
+           - Automated vulnerability scanning in CI/CD pipelines
+           - Contributed to incident response playbooks and runbook documentation
 
       - layout: top-middle
         title: DevOps
@@ -108,11 +141,19 @@ content:
           <font size="4"><center> CGI </center></font>
           <font size="4"><center> 09/2020 - 07/2022 </center></font>
 
+          - Deployed and maintained cloud infrastructures for multiple public clients
+          - Containerized legacy applications with Docker and migrated workloads to Kubernetes
+          - Automated infrastructure provisioning with Terraform and Ansible
+          - Set up centralized logging with ELK Stack and real-time monitoring with Prometheus and Grafana
+
       - layout: top-middle
-        title: Wine brooker - IT Technician / Helpdesk
+        title: Wine Broker - IT Technician / Helpdesk
         description: |
           <font size="4"><center> Bureau Feret </center></font>
           <font size="4"><center> 2018 - 2020 </center></font>
+
+          - Provided IT support and helpdesk services for internal teams
+          - Managed wine brokerage operations and client relationships
 
       - layout: top-middle
         title: Brand Ambassador - Digital communication
@@ -120,17 +161,25 @@ content:
           <font size="4"><center> Chateau Marquis de Terme </center></font>
           <font size="4"><center> 2015 - 2018 </center></font>
 
+          - Represented the estate at international wine fairs and events
+          - Managed social media presence and digital communication strategy
+
       - layout: top-middle
         title: IT Technician / Helpdesk
         description: |
           <font size="4"><center> Equaline </center></font>
           <font size="4"><center> 2012 - 2014 </center></font>
 
+          - Provided technical support and hardware/software troubleshooting for end users
+          - Managed workstation deployments and network maintenance
+
       - layout: top-middle
         title: Customer Support Consultant
         description: |
           <font size="4"><center> Teleperformance </center></font>
           <font size="4"><center> 2009 - 2012 </center></font>
+
+          - Handled customer inquiries and technical support
 
   - title: Education
     layout: list
@@ -139,7 +188,7 @@ content:
         title: IT Bachelor (Licence Profesionnelle ADSILLH)
         description: |
           <font size="4"><center> University of Bordeaux </center></font>
-          <font size="4"><center> System Administration and Plateform engineering </center></font>
+          <font size="4"><center> System Administration and Platform Engineering </center></font>
           <font size="4"><center> 2020 </center></font>
 
       - layout: top-middle

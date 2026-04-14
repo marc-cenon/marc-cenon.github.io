@@ -80,7 +80,8 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-          FDJ United - La Française des jeux | 09/2023 - Present
+          <div style="text-align:center"><font size="4">FDJ United - La Française des jeux</font></div>
+          <div style="text-align:center"><font size="4">09/2023 - Present</font></div>
 
           - Designed and operated multi-region and multi-provider infrastructure for payment-critical POS systems serving over tens of thousands of restaurants across France
           - Led Kubernetes platform engineering operations
@@ -91,7 +92,8 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-          Claranet | 09/2022 - 09/2023
+          <div style="text-align:center"><font size="4">Claranet</font></div>
+          <div style="text-align:center"><font size="4">09/2022 - 09/2023</font></div>
 
           - Managed multi-client cloud infrastructure across AWS and GCP
           - Designed and deployed Terraform modules and Ansible playbooks
@@ -101,7 +103,8 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-           Cshield - Baleen (Cdiscount) | 07/2022 - 09/2022
+           <div style="text-align:center"><font size="4">Cshield - Baleen (Cdiscount)</font></div>
+           <div style="text-align:center"><font size="4">07/2022 - 09/2022</font></div>
 
            - Automated infrastructure provisioning with Terraform and Ansible
            - Automated vulnerability scanning in CI/CD pipelines
@@ -110,7 +113,8 @@ content:
       - layout: top-middle
         title: DevOps
         description: |
-          CGI | 09/2020 - 07/2022
+          <div style="text-align:center"><font size="4">CGI</font></div>
+          <div style="text-align:center"><font size="4">09/2020 - 07/2022</font></div>
 
           - Deployed and maintained cloud infrastructures for multiple public clients
           - Containerized legacy applications with Docker and migrated workloads to Kubernetes
@@ -120,7 +124,8 @@ content:
       - layout: top-middle
         title: Wine Broker - IT Technician / Helpdesk
         description: |
-          Bureau Feret | 2018 - 2020
+          <div style="text-align:center"><font size="4">Bureau Feret</font></div>
+          <div style="text-align:center"><font size="4">2018 - 2020</font></div>
 
           - Provided IT support and helpdesk services for internal teams
           - Managed wine brokerage operations and client relationships
@@ -128,7 +133,8 @@ content:
       - layout: top-middle
         title: Brand Ambassador - Digital communication
         description: |
-          Chateau Marquis de Terme | 2015 - 2018
+          <div style="text-align:center"><font size="4">Chateau Marquis de Terme</font></div>
+          <div style="text-align:center"><font size="4">2015 - 2018</font></div>
 
           - Represented the estate at international wine fairs and events
           - Managed social media presence and digital communication strategy
@@ -136,7 +142,8 @@ content:
       - layout: top-middle
         title: IT Technician / Helpdesk
         description: |
-          Equaline | 2012 - 2014
+          <div style="text-align:center"><font size="4">Equaline</font></div>
+          <div style="text-align:center"><font size="4">2012 - 2014</font></div>
 
           - Provided technical support and hardware/software troubleshooting for end users
           - Managed workstation deployments and network maintenance
@@ -144,7 +151,8 @@ content:
       - layout: top-middle
         title: Customer Support Consultant
         description: |
-          Teleperformance | 2009 - 2012
+          <div style="text-align:center"><font size="4">Teleperformance</font></div>
+          <div style="text-align:center"><font size="4">2009 - 2012</font></div>
 
           - Provided customer support and technical troubleshooting across multiple product lines
 
@@ -154,20 +162,23 @@ content:
       - layout: top-middle
         title: IT Bachelor (Licence Profesionnelle ADSILLH)
         description: |
-          University of Bordeaux | 2020
-          System Administration and Platform Engineering
+          <div style="text-align:center"><font size="4">University of Bordeaux</font></div>
+          <div style="text-align:center"><font size="4">System Administration and Platform Engineering</font></div>
+          <div style="text-align:center"><font size="4">2020</font></div>
 
       - layout: top-middle
         title: WSET Level 3
         description: |
-          WSET School of London | 2017
-          Sommelier Diploma (Bac +3)
+          <div style="text-align:center"><font size="4">WSET School of London</font></div>
+          <div style="text-align:center"><font size="4">Sommelier Diploma (Bac +3)</font></div>
+          <div style="text-align:center"><font size="4">2017</font></div>
 
       - layout: top-middle
         title: Applied Foreign Languages English / Japanese Bachelor (Licence LEA)
         description: |
-          Bordeaux University | 2013
-          Cultural exchange with Tokyo University
+          <div style="text-align:center"><font size="4">Bordeaux University</font></div>
+          <div style="text-align:center"><font size="4">Cultural exchange with Tokyo University</font></div>
+          <div style="text-align:center"><font size="4">2013</font></div>
 
   - title: Hobbies
     layout: text

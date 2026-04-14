@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: MARC CENON
-title: DevOps Cloud - Site Reliability Engineer
+title: SRE | Cloud Architect
 email: marc.cenon33@gmail.com
 website: https://marc-cenon.github.io
 
@@ -22,78 +22,52 @@ linkedin_username: marccenon33
 about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: |
-  SRE - Cloud Architect with 6+ years designing and operating infrastructure at scale.
+  SRE & Cloud Architect with 6+ years designing and operating infrastructure at scale.
   Specialized in Kubernetes, observability, and cost optimization across AWS / OVH / Scaleway.
 
-  \
   <mark> Cloud Providers </mark>
-    - AWS -  AZURE - GCP - Scaleway - OVHcloud
+    - AWS - AZURE - GCP - Scaleway - OVHcloud
 
-  \
-  <mark> IaC - Automation </mark>
+  <mark> IaC & Automation </mark>
     - Ansible - Terraform - Pulumi - n8n
     - Packer - Vagrant - SaltStack - Cloud-Init
 
-  \
   <mark> CI/CD </mark>
-    - Gitlab CI - Github Action - ArgoCD - Flux
+    - Gitlab CI - Github Actions - ArgoCD - Flux
 
-  \
   <mark> AI / MLOps </mark>
     - Ollama - LLM infrastructure hosting (GPU nodes, model serving)
     - AI coding assistants integration in CI/CD pipelines
 
-  \
-  <mark> Kubernetes - Docker </mark>
-    - Helm - Kustomize  - Istio - Calico - Cilium
+  <mark> Kubernetes & Docker </mark>
+    - Helm - Kustomize - Istio - Calico - Cilium
     - Traefik - Nginx Ingress Controller - Gateway API
-    - Rook-Ceph - Dockerfile - Docker compose
+    - Rook-Ceph - Dockerfile - Docker Compose
     - KEDA - Karpenter - Velero
 
-  \
   <mark> Observability </mark>
-    - Opentelemetry - ELK Stack - Opensearch - Fluentbit
+    - OpenTelemetry - ELK Stack - OpenSearch - Fluentbit
     - Grafana - Prometheus - Thanos - Loki
-    - APM - Jaeger - Tempo - Promtail
-    - Alertmanager - Datadog - Hyperping
+    - Jaeger - Tempo - Promtail - Alertmanager - Datadog
 
-  \
-  <mark> FinOps </mark>
-    - OpenCost - Kubecost
-
-  \
-  <mark> SRE Practices </mark>
+  <mark> SRE Practices & FinOps </mark>
     - SLO / SLI / Error Budget definition and ownership
     - Incident management - PagerDuty - Opsgenie
-    - On-call rotation management
-    - Post-mortem culture / Blameless RCA
+    - On-call rotation management - Post-mortem / Blameless RCA
+    - OpenCost - Kubecost
 
-  \
-  <mark> Scripting </mark>
+  <mark> Scripting & Databases </mark>
     - Bash - Python - Lua - Ruby
-
-  \
-  <mark> Databases </mark>
     - MySQL - MariaDB - PostgreSQL - ProxySQL
 
-  \
-  <mark>  Linux OS </mark>
+  <mark> Linux OS & Security </mark>
     - Debian - Ubuntu - Arch - Fedora - RedHat - Proxmox
+    - Wazuh - Vault - Trivy - Sops - External Secrets Operator
 
-  \
-  <mark> Security </mark>
-    - Wazuh - Vault - Trivy - Sops
-    - External Secrets Operator
+  <mark> Web & Misc </mark>
+    - Apache - Nginx - HAProxy - Git - RabbitMQ - Redis
 
-  \
-    <mark> Web </mark>
-    - Apache - Nginx - HAProxy
 
-  \
-    <mark> Others </mark>
-    - Git - RabbitMQ - Redis
-
-  \
 content:
   - title: Certifications
     layout: text
@@ -106,8 +80,8 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-          <font size="4"><center> FDJ United - La Française des jeux </center></font>
-          <font size="4"><center> 09/2023 - Today </center></font>
+          <div style="text-align:center"><font size="4">FDJ United - La Française des jeux</font></div>
+          <div style="text-align:center"><font size="4">09/2023 - Present</font></div>
 
           - Designed and operated multi-region and multi-provider infrastructure for payment-critical POS systems serving over tens of thousands of restaurants across France
           - Led Kubernetes platform engineering operations
@@ -118,8 +92,8 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-          <font size="4"><center> Claranet </center></font>
-          <font size="4"><center> 09/2022 - 09/2023 </center></font>
+          <div style="text-align:center"><font size="4">Claranet</font></div>
+          <div style="text-align:center"><font size="4">09/2022 - 09/2023</font></div>
 
           - Managed multi-client cloud infrastructure across AWS and GCP
           - Designed and deployed Terraform modules and Ansible playbooks
@@ -129,18 +103,18 @@ content:
       - layout: top-middle
         title: DevOps - SRE
         description: |
-           <font size="4"><center> Cshield - Baleen (Cdiscount) </center></font>
-           <font size="4"><center> 07/2022 - 09/2022 </center></font>
+           <div style="text-align:center"><font size="4">Cshield - Baleen (Cdiscount)</font></div>
+           <div style="text-align:center"><font size="4">07/2022 - 09/2022</font></div>
 
            - Automated infrastructure provisioning with Terraform and Ansible
            - Automated vulnerability scanning in CI/CD pipelines
-           - Contributed to incident response playbooks and runbook documentation
+           - Authored incident response playbooks and runbook documentation
 
       - layout: top-middle
         title: DevOps
         description: |
-          <font size="4"><center> CGI </center></font>
-          <font size="4"><center> 09/2020 - 07/2022 </center></font>
+          <div style="text-align:center"><font size="4">CGI</font></div>
+          <div style="text-align:center"><font size="4">09/2020 - 07/2022</font></div>
 
           - Deployed and maintained cloud infrastructures for multiple public clients
           - Containerized legacy applications with Docker and migrated workloads to Kubernetes
@@ -150,8 +124,8 @@ content:
       - layout: top-middle
         title: Wine Broker - IT Technician / Helpdesk
         description: |
-          <font size="4"><center> Bureau Feret </center></font>
-          <font size="4"><center> 2018 - 2020 </center></font>
+          <div style="text-align:center"><font size="4">Bureau Feret</font></div>
+          <div style="text-align:center"><font size="4">2018 - 2020</font></div>
 
           - Provided IT support and helpdesk services for internal teams
           - Managed wine brokerage operations and client relationships
@@ -159,8 +133,8 @@ content:
       - layout: top-middle
         title: Brand Ambassador - Digital communication
         description: |
-          <font size="4"><center> Chateau Marquis de Terme </center></font>
-          <font size="4"><center> 2015 - 2018 </center></font>
+          <div style="text-align:center"><font size="4">Chateau Marquis de Terme</font></div>
+          <div style="text-align:center"><font size="4">2015 - 2018</font></div>
 
           - Represented the estate at international wine fairs and events
           - Managed social media presence and digital communication strategy
@@ -168,8 +142,8 @@ content:
       - layout: top-middle
         title: IT Technician / Helpdesk
         description: |
-          <font size="4"><center> Equaline </center></font>
-          <font size="4"><center> 2012 - 2014 </center></font>
+          <div style="text-align:center"><font size="4">Equaline</font></div>
+          <div style="text-align:center"><font size="4">2012 - 2014</font></div>
 
           - Provided technical support and hardware/software troubleshooting for end users
           - Managed workstation deployments and network maintenance
@@ -177,10 +151,10 @@ content:
       - layout: top-middle
         title: Customer Support Consultant
         description: |
-          <font size="4"><center> Teleperformance </center></font>
-          <font size="4"><center> 2009 - 2012 </center></font>
+          <div style="text-align:center"><font size="4">Teleperformance</font></div>
+          <div style="text-align:center"><font size="4">2009 - 2012</font></div>
 
-          - Handled customer inquiries and technical support
+          - Provided customer support and technical troubleshooting across multiple product lines
 
   - title: Education
     layout: list
@@ -188,23 +162,23 @@ content:
       - layout: top-middle
         title: IT Bachelor (Licence Profesionnelle ADSILLH)
         description: |
-          <font size="4"><center> University of Bordeaux </center></font>
-          <font size="4"><center> System Administration and Platform Engineering </center></font>
-          <font size="4"><center> 2020 </center></font>
+          <div style="text-align:center"><font size="4">University of Bordeaux</font></div>
+          <div style="text-align:center"><font size="4">System Administration and Platform Engineering</font></div>
+          <div style="text-align:center"><font size="4">2020</font></div>
 
       - layout: top-middle
         title: WSET Level 3
         description: |
-          <font size="4"><center> WSET School of London </center></font>
-          <font size="4"><center> Sommelier Diploma (Bac +3) </center></font>
-          <font size="4"><center> 2017 </center></font>
+          <div style="text-align:center"><font size="4">WSET School of London</font></div>
+          <div style="text-align:center"><font size="4">Sommelier Diploma (Bac +3)</font></div>
+          <div style="text-align:center"><font size="4">2017</font></div>
 
       - layout: top-middle
         title: Applied Foreign Languages English / Japanese Bachelor (Licence LEA)
         description: |
-          <font size="4"><center> Bordeaux University </center></font>
-          <font size="4"><center> Cultural exchange with Tokyo University </center></font>
-          <font size="4"><center> 2013 </center></font>
+          <div style="text-align:center"><font size="4">Bordeaux University</font></div>
+          <div style="text-align:center"><font size="4">Cultural exchange with Tokyo University</font></div>
+          <div style="text-align:center"><font size="4">2013</font></div>
 
   - title: Hobbies
     layout: text

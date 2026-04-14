@@ -22,7 +22,7 @@ linkedin_username: marccenon33
 about_title: About Me
 about_profile_image: images/myAvatar.png
 about_content: |
-  SRE / Cloud Architect with 6+ years designing and operating infrastructure at scale.
+  SRE - Cloud Architect with 6+ years designing and operating infrastructure at scale.
   Specialized in Kubernetes, observability, and cost optimization across AWS / OVH / Scaleway.
 
   \
@@ -52,9 +52,10 @@ about_content: |
 
   \
   <mark> Observability </mark>
-    - Opentelemetry - ELK Stack - Grafana - Prometheus - Thanos - Loki
-    - Fluentbit - APM - Jaeger - Tempo - Promtail - Hyperping
-    - Alertmanager - Datadog
+    - Opentelemetry - ELK Stack - Opensearch - Fluentbit
+    - Grafana - Prometheus - Thanos - Loki
+    - APM - Jaeger - Tempo - Promtail
+    - Alertmanager - Datadog - Hyperping
 
   \
   <mark> FinOps </mark>

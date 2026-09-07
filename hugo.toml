@@ -1,5 +1,5 @@
 baseURL = "https://marc-cenon.github.io/"
-title = "MARC CENON | SRE | Cloud Architect | DevOps"
+title = "MARC CENON | Lead SRE | Cloud Architect | DevOps"
 
 [languages.en]
 label = "English"
@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [params]
   name        = "MARC CENON"
-  tagline     = "SRE | Cloud Architect | DevOps"
+  tagline     = " Lead SRE | Cloud Architect | DevOps"
   description = "online resume"
   email       = "marc.cenon33@gmail.com"
   github      = "marc-cenon"

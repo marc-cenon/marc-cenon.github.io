@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="canonical" href="{{ .Site.BaseURL }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "images/favicon.ico" | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700">
+  {{ with resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+  {{ end }}
+</head>
+<body>
+
+{{ partial "header.html" . }}
+
+<main>
+  {{ partial "about.html" . }}
+  {{ partial "certifications.html" . }}
+  {{ partial "skills.html" . }}
+  {{ partial "experience.html" . }}
+  {{ partial "education.html" . }}
+  {{ partial "hobbies.html" . }}
+</main>
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>

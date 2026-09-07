@@ -1,0 +1,225 @@
+/* Design ported from the previous Jekyll resume-theme output to keep the visual result close. */
+
+:root {
+  --text: #333;
+  --muted: #636161;
+  --border: #ccc;
+  --dark: #333;
+  --bg: #fff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.header,
+main,
+.footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h1, h2, h3, h4 {
+  font-family: inherit;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+
+h1 { font-size: 3.2rem; font-weight: 500; margin-bottom: 0.1rem; }
+h2 { font-size: 1.6rem; font-weight: 300; margin: 0; }
+
+h3 {
+  font-size: 2.2rem;
+  font-weight: 300;
+  text-align: center;
+  border-bottom: dashed 2px var(--border);
+  padding-bottom: 6px;
+  margin-bottom: 18px;
+}
+
+h4 { font-size: 1.8rem; font-weight: 300; margin-bottom: 3px; }
+
+a { color: inherit; }
+
+/* Header */
+
+.header {
+  margin-top: 24px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.header-right { text-align: right; }
+
+.icons {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 0;
+  margin: 0 0 12px;
+}
+
+.icon-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.icon-btn:hover {
+  background: var(--dark);
+  color: #fff;
+  border-color: var(--dark);
+}
+
+.header-right p { margin: 0 0 3px; font-size: 1rem; }
+
+/* Sections */
+
+.section { margin-top: 32px; }
+
+/* About */
+
+.about-row {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+
+.about-avatar-col { flex: 0 0 180px; }
+
+.profile-img {
+  display: block;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+  border-radius: 100%;
+  background-size: cover;
+  background-position: center;
+  box-shadow: inset 0 0 20px var(--muted);
+}
+
+.about-content-col { flex: 1; min-width: 0; }
+
+mark {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 90%;
+  color: #fff;
+  background-color: var(--dark);
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+  margin-top: 6px;
+}
+
+/* Skills */
+
+.skills-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 40px;
+  row-gap: 10px;
+  align-items: start;
+}
+
+.skill-group { margin-bottom: 0; text-align: center; }
+
+.skill-group ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Certifications */
+
+.section img { display: block; max-width: 100%; margin: 0 auto; }
+
+/* Experience / Education entries */
+
+.entry {
+  display: flex;
+  gap: 20px;
+  padding: 12px 0;
+  border-top: 1px solid #eee;
+}
+
+.entry:first-of-type { border-top: none; }
+
+.entry-title { flex: 0 0 28%; }
+.entry-content { flex: 1; min-width: 0; }
+
+.entry-meta {
+  margin: 0 0 3px;
+  font-weight: 300;
+  font-size: 1.25rem;
+  text-align: center;
+}
+
+.job-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.entry-content ul { margin: 10px 0 0; padding-left: 1.2rem; }
+.entry-content li { margin-bottom: 4px; }
+
+/* Hobbies */
+
+.hobbies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.hobby {
+  font-size: 1.1rem;
+  padding: 4px 4px;
+}
+
+/* Footer */
+
+.footer {
+  margin-top: 40px;
+  margin-bottom: 24px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 767px) {
+  .header { flex-direction: column; text-align: center; }
+  .header-right { text-align: center; width: 100%; }
+  .icons { justify-content: center; }
+
+  .about-row { flex-direction: column; align-items: center; text-align: center; }
+
+  .skills-columns { grid-template-columns: 1fr; }
+
+  .entry { flex-direction: column; text-align: center; }
+  .entry-title { flex: none; }
+}

@@ -1,0 +1,56 @@
+- category: Cloud Providers
+  items: [AWS, AZURE, GCP, Scaleway, OVHcloud]
+
+- category: AI
+  items:
+    - Prompt Engineering
+    - RAG & Vector Database Integration
+    - AI-Driven Code Review & Triage
+    - AIOps and Incident Copilots
+    - Agent Monitoring
+
+- category: IaC & Automation
+  items: [Ansible, Terraform, Pulumi, n8n, Packer, Vagrant, Cloud-Init]
+
+- category: Kubernetes & Docker
+  items:
+    - Helm
+    - Kustomize
+    - Autoscaling (KEDA, Karpenter)
+    - Service Mesh (Istio)
+    - CNI (Calico, Cilium)
+    - Traffic routing (Traefik, Gateway API)
+    - Distributed Storage (Rook-Ceph)
+    - Dockerfile - Docker Compose
+
+- category: SRE Practices & FinOps
+  items:
+    - SLO / SLI ownership
+    - Error budgets
+    - Incident management
+    - On-call rotation management
+    - Post-mortem
+
+- category: CI/CD
+  items: [Gitlab CI, Github Actions, ArgoCD, Flux]
+
+- category: Observability
+  items:
+    - OpenTelemetry
+    - ELK Stack - Opensearch
+    - Fluentbit - Loki
+    - Grafana
+    - Prometheus - Thanos
+    - Jaeger - Tempo
+    - Tempo
+    - Alertmanager
+
+- category: Linux OS & Security
+  items:
+    [Multiple OS expertise, Os Hardening, Proxmox, Wazuh, Vault, Trivy, Sops]
+
+- category: Scripting & Databases
+  items: [Bash, Python, Lua, MySQL, MariaDB, PostgreSQL, ProxySQL]
+
+- category: Web & Misc
+  items: [Apache, Nginx, HAProxy, Git, RabbitMQ, Redis]

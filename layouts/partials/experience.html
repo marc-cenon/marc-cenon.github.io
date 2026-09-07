@@ -1,0 +1,18 @@
+{{ $entries := (where .Site.RegularPages "Section" "experience").ByWeight }}
+{{ with $entries }}
+<section class="section">
+  <h3>Experiences</h3>
+  {{ range . }}
+  <div class="entry">
+    <div class="entry-title">
+      <h4 class="job-title">{{ .Title }}</h4>
+    </div>
+    <div class="entry-content">
+      <p class="entry-meta">{{ .Params.company }}</p>
+      <p class="entry-meta">{{ .Params.period }}</p>
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+</section>
+{{ end }}

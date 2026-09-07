@@ -1,0 +1,15 @@
+{{ with hugo.Data.skills }}
+<section class="section">
+  <h3>Skills</h3>
+  <div class="skills-columns">
+    {{ range . }}
+    <div class="skill-group">
+      <p><mark>{{ .category }}</mark></p>
+      <ul>
+        {{ range .items }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

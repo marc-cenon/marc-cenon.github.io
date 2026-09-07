@@ -1,0 +1,6 @@
+{{ with .Site.Params.certsImage }}
+<section class="section">
+  <h3>Certifications</h3>
+  <img src="{{ . | relURL }}" alt="Certifications">
+</section>
+{{ end }}

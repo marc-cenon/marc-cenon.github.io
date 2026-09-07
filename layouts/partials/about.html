@@ -1,0 +1,13 @@
+<section class="section">
+  <h3>{{ .Title }}</h3>
+  <div class="about-row">
+    {{ with .Site.Params.avatar }}
+    <div class="about-avatar-col">
+      <span class="profile-img" style="background-image: url({{ . | relURL }})"></span>
+    </div>
+    {{ end }}
+    <div class="about-content-col">
+      {{ .Content }}
+    </div>
+  </div>
+</section>

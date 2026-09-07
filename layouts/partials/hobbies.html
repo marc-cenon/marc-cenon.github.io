@@ -1,0 +1,8 @@
+{{ with hugo.Data.hobbies }}
+<section class="section">
+  <h3>Hobbies</h3>
+  <div class="hobbies">
+    {{ range . }}<span class="hobby">{{ . }}</span>{{ end }}
+  </div>
+</section>
+{{ end }}

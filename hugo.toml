@@ -1,0 +1,20 @@
+baseURL = "https://marc-cenon.github.io/"
+title = "MARC CENON | SRE | Cloud Architect | DevOps"
+
+[languages.en]
+label = "English"
+weight = 1
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  name        = "MARC CENON"
+  tagline     = "SRE | Cloud Architect | DevOps"
+  description = "online resume"
+  email       = "marc.cenon33@gmail.com"
+  github      = "marc-cenon"
+  linkedin    = "marccenon33"
+  avatar      = "images/myAvatar.png"
+  certsImage  = "images/certs.png"
+
+[markup.goldmark.renderer]
+  unsafe = false
